@@ -1,0 +1,36 @@
+# Ignore build files
+build/
+test/
+.vscode
+
+# Ignore garbage of OS X
+*.DS_Store
+
+# Ignore vim cache
+*.swp
+
+#	Do not edit the following section
+# 	Edit Compile Debug Document Distribute
+*~
+*.bak
+*.bin
+*.dll
+*.exe
+*-ISO*.bdf
+*-JIS*.bdf
+*-KOI8*.bdf
+*.kld
+*.ko
+*.ko.cmd
+*.lai
+*.l[oa]
+*.[oa]
+*.o
+*.obj
+*.patch
+*.so
+*.pcf.gz
+*.pdb
+*.tar.bz2
+*.tar.gz
+#
